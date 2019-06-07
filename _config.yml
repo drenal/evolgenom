@@ -1,3 +1,9 @@
+title: EvolGenom IT Doc
+description: MTA-ELTE Momentum Evolutionary Genomics Research Group IT documentation
+url: "https://drenal.github.io"
+
+permalink: pretty
+
 remote_theme: pmarsceill/just-the-docs
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: "dark"
