@@ -3,14 +3,12 @@ description: MTA-ELTE Momentum Evolutionary Genomics Research Group IT documenta
 url: "https://drenal.github.io/evolgenom"
 #baseurl: "/evolgenom"
 
-permalink: pretty
-
 remote_theme: pmarsceill/just-the-docs
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: "dark"
 search_enabled: true
 aux_links:
-  "Research Group's Homepage":
+  "Homepage":
     - "https://evolgenom.elte.hu"
-  "View on GitHub":
+  "GitHub":
     - "https://github.com/drenal/evolgenom"
