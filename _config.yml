@@ -10,5 +10,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: true
 aux_links:
-    "Evolutionary Genomics Research Group":
-      - "https://evolgenom.elte.hu"
+  "Research Group's Homepage":
+    - "https://evolgenom.elte.hu"
+  "View on GitHub":
+    - "https://github.com/drenal/evolgenom"
