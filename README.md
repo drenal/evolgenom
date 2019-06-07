@@ -1,8 +1,6 @@
----
-title: Documentation
----
+# Documentation of
 
-# MTA-ELTE “Momentum” Evolutionary Genomics Research Group cluster and IT documentation
+**MTA-ELTE “Momentum” Evolutionary Genomics Research Group cluster and IT documentation**
 
 Welcome to the cluster and IT infrastructure documentation of MTA-ELTE “Momentum” Evolutionary Genomics Research Group at Eötvös University, Budapest, Hungary.
 
