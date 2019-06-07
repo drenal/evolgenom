@@ -1,0 +1,7 @@
+remote_theme: pmarsceill/just-the-docs
+# Color scheme currently only supports "dark" or nil (default)
+color_scheme: "dark"
+search_enabled: true
+aux_links:
+    "Evolutionary Genomics Research Group":
+      - "https://evolgenom.elte.hu"
